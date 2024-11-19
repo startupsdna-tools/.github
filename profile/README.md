@@ -11,10 +11,12 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
+## 👩‍💻 Best Practices
+
+Collection of best practices for startups. 
+
+[Read more...](https://github.com/startupsdna-tools/best-practices)
+
 ## Sample codes & examples
 - [Example Firebase Auth + NestJS + React Admin](https://github.com/startupsdna-tools/example-firebase-auth-nestjs-react-admin)
 
-
-## 👩‍💻 Useful resources
-
-- [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
